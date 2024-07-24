@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "APICatalogos": {
+    "APICatalogo": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

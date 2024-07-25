@@ -11,6 +11,10 @@
     Pomelo.EntityFrameworkCore.MySql
     Swashbuckle.AspNetCore
 
+# Connection Strings
+
+    https://www.connectionstrings.com/mysql/
+
 # Configurar o ambiente
 
 ## Instalar o EntityFrameworkCore

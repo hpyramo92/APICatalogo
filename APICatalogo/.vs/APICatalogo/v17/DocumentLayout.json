@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|h:\\projetos\\udemy\\cursowebapiaspnetcoreessencial\\se\u00E7\u00E3o 3 - net 8 - criando uma web api usando o visual studio\\apicatalogo\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|h:\\projetos\\udemy\\cursowebapiaspnetcoreessencial\\se\u00E7\u00E3o 3 - net 8 - criando uma web api usando o visual studio\\apicatalogo\\apicatalogo\\apicatalogo\\domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|h:\\projetos\\udemy\\cursowebapiaspnetcoreessencial\\se\u00E7\u00E3o 3 - net 8 - criando uma web api usando o visual studio\\apicatalogo\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|h:\\projetos\\udemy\\cursowebapiaspnetcoreessencial\\se\u00E7\u00E3o 3 - net 8 - criando uma web api usando o visual studio\\apicatalogo\\apicatalogo\\apicatalogo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|h:\\projetos\\udemy\\cursowebapiaspnetcoreessencial\\se\u00E7\u00E3o 3 - net 8 - criando uma web api usando o visual studio\\apicatalogo\\apicatalogo\\apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|h:\\projetos\\udemy\\cursowebapiaspnetcoreessencial\\se\u00E7\u00E3o 3 - net 8 - criando uma web api usando o visual studio\\apicatalogo\\apicatalogo\\apicatalogo\\domain\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC56344D-083F-480D-9EDD-0A105F8A18AB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\domain\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Program.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
-              "ToolTip": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Program.cs",
-              "RelativeToolTip": "APICatalogo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Title": "Produto.cs",
+              "DocumentMoniker": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Domain\\Produto.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Domain\\Produto.cs",
+              "ToolTip": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Domain\\Produto.cs",
+              "RelativeToolTip": "APICatalogo\\Domain\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T23:29:47.131Z",
+              "WhenOpened": "2024-07-24T23:42:35.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\appsettings.json",
-              "RelativeDocumentMoniker": "APICatalogo\\appsettings.json",
-              "ToolTip": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\appsettings.json",
-              "RelativeToolTip": "APICatalogo\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-24T23:29:40.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "APICatalogo\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Domain\\Categoria.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Domain\\Categoria.cs",
+              "ToolTip": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Domain\\Categoria.cs",
+              "RelativeToolTip": "APICatalogo\\Domain\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T23:29:14.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "APICatalogo\\Properties\\launchSettings.json",
-              "ToolTip": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Se\u00E7\u00E3o 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\Properties\\launchSettings.json",
-              "RelativeToolTip": "APICatalogo\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-24T23:25:18.374Z",
+              "WhenOpened": "2024-07-24T23:39:26.666Z",
               "EditorCaption": ""
             }
           ]

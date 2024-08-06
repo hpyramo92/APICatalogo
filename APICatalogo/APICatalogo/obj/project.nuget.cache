@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GomlHwqDeng=",
+  "dgSpecHash": "WqzxeKaUsgY=",
   "success": true,
-  "projectFilePath": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
+  "projectFilePath": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hpyra\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hpyra\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.7\\microsoft.aspnetcore.openapi.8.0.7.nupkg.sha512",

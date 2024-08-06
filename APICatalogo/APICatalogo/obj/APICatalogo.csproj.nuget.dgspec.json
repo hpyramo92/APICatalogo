@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\apicatalogo\\APICatalogo.csproj": {}
+    "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\apicatalogo\\APICatalogo.csproj": {
+    "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
+        "projectPath": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "packagesPath": "C:\\Users\\hpyra\\.nuget\\packages\\",
-        "outputPath": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\apicatalogo\\obj\\",
+        "outputPath": "H:\\Projetos\\Udemy\\CursoWebApiAspNetCoreEssencial\\Seção 3 - NET 8 - Criando uma web API usando o Visual Studio\\APICatalogo\\APICatalogo\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
